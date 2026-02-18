@@ -91,6 +91,21 @@ Collection of finance-oriented apps and calculators.
 - Build automation into pipelines and development workflows by default.
 - Deliver production-ready outputs with clear documentation.
 
+## Experience Highlights
+### Senior Data Engineer
+- Designed and maintained end-to-end ETL/ELT workflows for ingesting, validating, and transforming finance and operations data.
+- Built reusable SQL/Python data models to improve consistency, reliability, and reporting readiness.
+- Implemented data quality checks, backup/recovery workflows, and audit-friendly exports for operational confidence.
+- Automated recurring reporting and processing tasks to reduce manual effort and improve delivery speed.
+- Partnered with stakeholders to define data requirements, schema updates, and delivery expectations.
+
+### Senior Data Scientist
+- Built analytics and ML-ready datasets from operational and transactional data sources.
+- Developed feature engineering and modeling workflows for trend analysis, forecasting, and decision support.
+- Delivered insight-driven reporting outputs through dashboards, summaries, and time-series analysis.
+- Created reproducible experimentation and evaluation workflows to support model quality and reliability.
+- Translated business problems into practical data science solutions with measurable outcomes.
+
 ## GitHub Snapshot
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgemikhael90&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgemikhael90&layout=compact&theme=transparent&hide_border=true)
