@@ -1,30 +1,42 @@
 # George Mikhael
-### Software Engineer | Data Engineer | Data Science | Automation Engineer
+### Senior Data Engineer | Senior Data Scientist
 
-I design and deliver production-ready software and data solutions with a strong focus on reliability, maintainability, and automation.
+I build production-grade data platforms and applied ML solutions that improve decision quality, automation, and operational efficiency.
 
 ## Professional Summary
-- Build end-to-end applications from data layer to UI, API, and reporting.
-- Develop structured data workflows for ingestion, validation, transformation, and analytics.
-- Apply data science techniques to turn operational data into decision-ready insights.
-- Implement automation-first workflows to reduce manual effort and improve delivery speed.
+- Design and ship end-to-end data workflows: ingestion, transformation, validation, modeling, and serving.
+- Build analytics and ML pipelines that convert raw operational data into actionable intelligence.
+- Develop production-ready systems with focus on reliability, observability, and performance.
+- Partner with stakeholders to translate business goals into measurable data outcomes.
 
 ## Market-Focused Keywords
-`Python` `JavaScript` `SQL` `Data Pipelines` `ETL/ELT` `Backend APIs` `Data Modeling` `Automation`
-`Analytics` `Machine Learning` `Reporting` `CI/CD` `Cloud` `DevOps`
+`Senior Data Engineer` `Senior Data Scientist` `Python` `SQL` `Data Pipelines` `ETL/ELT`
+`Data Modeling` `Feature Engineering` `Machine Learning` `Experimentation` `Analytics Engineering`
+`MLOps` `Data Quality` `CI/CD` `Cloud` `Automation`
+
+## Target Roles
+### Senior Data Engineer
+- Architect scalable data pipelines and data models for analytics and application use cases.
+- Build robust ETL/ELT workflows with validation, monitoring, and failure recovery.
+- Improve data reliability, consistency, and delivery SLAs for downstream consumers.
+
+### Senior Data Scientist
+- Build and operationalize ML/analytics solutions from problem framing to model deployment.
+- Create feature pipelines and evaluation workflows to ensure model quality and reproducibility.
+- Deliver insight-driven recommendations that influence product and business decisions.
 
 ## Selected Projects
 ### [Personal Finance Tracker](https://github.com/georgemikhael90/personal-finance-tracker)
 Offline desktop finance system built with Python and PyQt5.
-- Designed account/category/transaction modules with full CRUD workflows.
-- Implemented CSV import/export, backup/restore, and reporting dashboards.
-- Delivered analytics views (monthly/yearly summaries, category trends, balance tracking).
+- Designed data-centric modules for accounts, categories, and transaction lifecycle management.
+- Implemented ingestion/export patterns (CSV), backup/restore workflows, and reporting dashboards.
+- Delivered analytical outputs including trends, category distributions, and financial summaries.
 
 ### [Payroll Calculator](https://github.com/georgemikhael90/sad-payroll-calculator-01-01-2026)
 Web-based payroll and pay-correction calculator.
-- Built calculation workflows in JavaScript with tabbed UI for payroll operations.
-- Added export support for Excel/PDF workflows used in operational reporting.
-- Structured pay-table logic for maintainable updates and consistent outputs.
+- Built deterministic payroll calculation workflows with maintainable pay-table logic.
+- Added export capabilities (Excel/PDF) for reporting and audit-friendly operations.
+- Delivered automation-oriented UI flows for payroll and correction scenarios.
 
 ### [Financial Tools Portfolio](https://github.com/georgemikhael90?tab=repositories)
 Collection of finance-oriented apps and calculators.
@@ -42,6 +54,7 @@ Collection of finance-oriented apps and calculators.
 [![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243)](https://numpy.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/)
 
 ### Backend, Cloud & DevOps
 [![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com/)
@@ -66,4 +79,4 @@ Collection of finance-oriented apps and calculators.
 - GitHub: [georgemikhael90](https://github.com/georgemikhael90)
 
 ---
-Open to Software Engineering, Data Engineering, Data Science, and Automation opportunities.
+Open to Senior Data Engineer and Senior Data Scientist opportunities.
