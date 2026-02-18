@@ -47,6 +47,7 @@ Collection of finance-oriented apps and calculators.
 ### Languages & Core
 [![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
 
 ### Data & Analytics
@@ -55,6 +56,17 @@ Collection of finance-oriented apps and calculators.
 [![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-111827?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai/)
+
+### Data Engineering
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-111827?style=for-the-badge&logo=apachespark&logoColor=E25A1C)](https://spark.apache.org/)
+[![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-111827?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)](https://airflow.apache.org/)
+[![dbt](https://img.shields.io/badge/dbt-111827?style=for-the-badge&logo=dbt&logoColor=FF694B)](https://www.getdbt.com/)
+[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Databricks](https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=FF3621)](https://www.databricks.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-111827?style=for-the-badge&logo=snowflake&logoColor=29B5E8)](https://www.snowflake.com/)
+[![BigQuery](https://img.shields.io/badge/BigQuery-111827?style=for-the-badge&logo=googlebigquery&logoColor=669DF6)](https://cloud.google.com/bigquery)
 
 ### Backend, Cloud & DevOps
 [![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com/)
@@ -63,6 +75,15 @@ Collection of finance-oriented apps and calculators.
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
 [![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://aws.amazon.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA)](https://www.terraform.io/)
+[![MLflow](https://img.shields.io/badge/MLflow-111827?style=for-the-badge&logo=mlflow&logoColor=0194E2)](https://mlflow.org/)
+
+### BI, Quality & Delivery
+[![Power BI](https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=E97627)](https://www.tableau.com/)
+[![Pytest](https://img.shields.io/badge/Pytest-111827?style=for-the-badge&logo=pytest&logoColor=0A9EDC)](https://pytest.org/)
+[![Great Expectations](https://img.shields.io/badge/Great_Expectations-111827?style=for-the-badge)](https://greatexpectations.io/)
 
 ## Working Style
 - Translate business requirements into scalable technical solutions.
